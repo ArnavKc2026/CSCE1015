@@ -1,10 +1,6 @@
 # CSCE1015
 Assignment repository for UNT CSCE1015
-
-# EUID
-
+## EUID
 ak1334
-
-# Professor
-
-Jacob Hochstetler
+## Favorite Professor
+Professor Hochstetler
